@@ -1,4 +1,4 @@
-# Project Title
+# Git & Github Master Class Example
 
 One Paragraph of project description goes here
 
