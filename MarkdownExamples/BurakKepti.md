@@ -3,7 +3,7 @@ Android | IOS | Windows
 v1.0.0 | v1.0.1 | v2.0.1
 gdsjagsdjjasjdjagsjdgjagsj dgajsgdjgas | agsdgasjdgjagsdgasjdgjag sdgjasjdgajsgdj | qdjagsjdgajsgdjgasjdgjasgdjgajs asgdjasgjdagjsdgjas
 [Play Store](https://play.google.com/store/apps/details?id=com.vodafone.selfservis&hl=tr)| [App Store](https://apps.apple.com/tr/app/vodafone-yan%C4%B1mda/id489845659) | [Store](https://m.vodafone.com.tr/touch/deeplink/)
-![](https://cdn.icon-icons.com/icons2/730/PNG/512/android_icon-icons.com_62762.png) | ![](https://dlandroid.com/wp-content/uploads/2020/01/iOS-Icon-Pack-iPhone-Style-Icons-(No-Ads)-3.jpg "IOS") | ![](https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_960_720.png)
+![](android.png) | ![](ios.jpg "IOS") | ![](windows.png)
 
 
 + [ ] Task 1
